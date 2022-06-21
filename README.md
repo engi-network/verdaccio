@@ -1,0 +1,1 @@
+## Internal pipeline for verdaccio
